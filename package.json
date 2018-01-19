@@ -1,0 +1,15 @@
+{
+  "name": "sissel-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Tonight, in this very theme, something big is going down. (or dark theme with vibrant text)",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/nteetor/sissel-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
